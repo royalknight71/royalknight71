@@ -15,7 +15,6 @@
 🎯 2026 Goals:
 - Build scalable full-stack applications
 - Strengthen DSA and problem-solving skills
-- Secure a Software Development Internship
 
 📫 Connect with me:
 - Email: krishgupta22234990@gmail.com
