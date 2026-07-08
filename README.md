@@ -59,7 +59,7 @@
 ![GitHub Stats](https://github-readme-stats-zeta-three-85.vercel.app/api?username=royalknight71&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats-zeta-three-85.vercel.app/api/top-langs/?username=royalknight71&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=royalknight71&theme=tokyonight)]
+[![GitHub Streak](https://github-readme-stats-zeta-three-85.vercel.app?user=royalknight71&theme=tokyonight)]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/krish-gupta-1441b2311/)
 
