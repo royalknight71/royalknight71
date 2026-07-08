@@ -56,8 +56,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royalknight71&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royalknight71&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-zeta-three-85.vercel.app/api?username=royalknight71&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-zeta-three-85.vercel.app/api/top-langs/?username=royalknight71&layout=compact&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=royalknight71&theme=tokyonight)]
 
