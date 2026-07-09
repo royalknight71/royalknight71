@@ -61,6 +61,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-ten-sigma.vercel.app?user=royalknight71&theme=tokyonight)](https://git.io/streak-stats)
 
+## 📊 Contribution Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=royalknight71&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royalknight71&theme=tokyonight" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/krish-gupta-1441b2311/)
 
 ![](https://komarev.com/ghpvc/?username=royalknight71)
