@@ -1,27 +1,27 @@
 # Hi, I'm Krish Gupta 👋
 
-🎓 B.Tech student at **PDPM IIITDM Jabalpur** passionate about **Backend Development, Full-Stack Development, Data Structures & Algorithms, System Design, and Open Source**.
+🎓 B.Tech student at **IIITDM Jabalpur** passionate about **Full-Stack Development, Open Source, Data Structures & Algorithms, and data-driven applications**.
 
-I enjoy building real-world applications, solving algorithmic problems, designing backend systems, and exploring scalable software architectures.
+I enjoy building real-world applications, solving algorithmic problems, exploring backend systems, and contributing to open-source projects.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🏏 **Criclyst** — A cricket analytics platform providing match data, player statistics, live scores, and data-driven insights.
+- 🏏 **Criclyst** — A cricket analytics platform focused on match data, statistics, and insights.
 - 🧑‍💻 Exploring and contributing to **open-source projects**.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Go & Backend Development
-- PostgreSQL & SQL
-- Docker & Deployment
-- REST API Design
-- Distributed Systems Fundamentals
-- Data Structures & Algorithms
 - Open Source Development
+- Go
+- Docker
+- Next.js
+- Data Structures & Algorithms
+- Backend Development
+- Software Architecture & Scalable Applications
 
 ---
 
@@ -49,15 +49,15 @@ I enjoy building real-world applications, solving algorithmic problems, designin
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Go](https://img.shields.io/badge/Go_Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
 ### 🗄️ Databases & Caching
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔐 Authentication & Security
 
@@ -85,57 +85,11 @@ I enjoy building real-world applications, solving algorithmic problems, designin
 
 A full-stack cricket analytics platform designed to provide meaningful insights from cricket match data.
 
-**Features:**
-- 📊 Player & match analytics
-- 🏏 Live scores
-- 🔔 Real-time notifications
-- 📈 Interactive visualizations
-- 👤 Personalized dashboard
-- 🤖 AI-powered match analysis
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · Redis · Socket.IO · REST APIs
-
----
-
-### 🔗 Scalable URL Shortener
-
-A backend-focused URL shortening service designed with scalability and system design concepts in mind.
-
-**Features:**
-- 🔗 Short URL generation
-- 🔐 Authentication
-- ✏️ Custom aliases
-- ⏳ URL expiration
-- ⚡ Redis caching
-- 🚦 Rate limiting
-- 📊 URL analytics
-- 🔢 Base62 encoding
-- 🔄 Concurrent request handling
-
-**Tech:** Go · PostgreSQL · Redis · Docker · REST API
-
----
-
-### 🤖 Knowledge Copilot
-
-A Retrieval-Augmented Generation system designed to retrieve relevant information from documents and generate grounded responses using LLMs.
-
-**Features:**
-- 📄 Document processing
-- 🧠 Embeddings
-- 🔎 Semantic search
-- 🗃️ Vector database
-- 🎯 Retrieval & reranking
-- 🤖 LLM integration
-- 📊 RAG evaluation
-
-**Tech:** Python · FastAPI · Qdrant · LLM APIs · RAG
-
----
+**Tech:** React.js · Node.js · Express.js · MongoDB · Redis · REST APIs
 
 ## 🧠 Problem Solving
 
-I regularly practice **Data Structures & Algorithms** and focus on solving problems efficiently while strengthening core computer science fundamentals.
+I regularly practice **Data Structures & Algorithms**.
 
 ### Coding Profiles
 
@@ -146,15 +100,12 @@ I regularly practice **Data Structures & Algorithms** and focus on solving probl
 
 ## 🎯 2026 Goals
 
-- 🚀 Build production-quality backend systems
-- 🧠 Strengthen DSA and problem-solving skills
-- 🏗️ Learn and apply System Design concepts
-- 🐹 Build scalable applications using Go
-- 🗄️ Strengthen PostgreSQL, Redis, and database design skills
-- 🤖 Build practical AI/RAG applications
-- 🐳 Improve Docker and deployment skills
+- 🚀 Build scalable full-stack applications
 - 🧑‍💻 Make meaningful open-source contributions
-- 🌍 Gain experience with production-level codebases
+- 🧠 Strengthen DSA and problem-solving skills
+- 🐳 Improve backend, Docker, and system development skills
+- 🌍 Work on production-level codebases
+- 📚 Continuously learn and explore new technologies
 
 ---
 
